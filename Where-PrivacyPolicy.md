@@ -1,48 +1,127 @@
 
-Privacy Policy  
-----------------
+ABOUT WHERE
+WHERE - AI Walking Guide is developed by JackyDesigns and provides ultra-minimal AI-powered walking navigation with voice search and real-time shop discovery. This privacy policy explains how we collect, use, and protect your information when you use our walking navigation service.
 
-### Introduction  
-Our privacy policy will help you understand what information we collect at WHERE, how we uses it, and what choices you have.
-JackyDesigns built the WHERE app as a free app. This SERVICE is provided by JackyDesigns at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
+By using WHERE, you agree to the collection and use of information in accordance with this policy. We are committed to protecting your privacy while providing you with the best possible walking navigation experience.
 
-### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
+INFORMATION WE COLLECT
+Google Account Information
+When you sign in with Google, WHERE receives your basic profile information including your name, email address, and profile picture. We use this information to create and maintain your WHERE account, provide personalized navigation history, and improve your experience.
 
-### Cookies  
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
+Location Data
+WHERE requires access to your device location to provide walking directions and discover nearby shops and services. Location data is used only to deliver navigation services and is not shared with third parties for advertising purposes.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
+Voice Search Data
+When you use voice search, WHERE processes your spoken queries to understand your navigation requests. Voice data is processed securely and is not stored permanently on our servers.
 
-### Location Information  
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
+Navigation History
+WHERE saves your navigation history to provide better recommendations and allow you to easily revisit destinations. This includes destination names, addresses, visit times, and optional ratings you provide.
 
-### Device Information  
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
+HOW WE USE YOUR DATA
+Navigation Services
+Provide walking directions, discover nearby locations, and offer real-time shop information.
 
-### Service Providers  
-We may employ third-party companies and individuals due to the following reasons:  
-* To facilitate our Service;
-* To provide the Service on our behalf;
-* To perform Service-related services; or
-* To assist us in analyzing how our Service is used.  
+Personalization
+Customize your experience based on your navigation history and preferences.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
+Service Improvement
+Analyze usage patterns to enhance WHERE's navigation accuracy and feature development.
 
-### Security  
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
+GOOGLE USER DATA HANDLING
+WHERE's use of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements.
 
-### Children’s Privacy  
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
+We will notify users through this privacy policy and in-app notifications if we change how we use Google user data. Any changes will be clearly communicated at least 30 days before implementation.
 
-### Changes to This Privacy Policy  
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+HOW WE ACCESS GOOGLE DATA
+WHERE accesses your Google user data only when you explicitly sign in with Google. We request access to:
 
-### Contact Us  
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
-Contact Information:  
+• Basic Profile Information: Your name, email address, and profile picture
+• Account Verification: Unique Google account identifier for authentication
+• No Additional Permissions: We do NOT access Gmail, Google Drive, Calendar, Contacts, or any other Google services
+Access is granted through Google's secure OAuth 2.0 system. You can revoke WHERE's access at any time through your Google Account settings.
+
+HOW WE USE GOOGLE DATA
+Your Google user data is used exclusively for the following purposes:
+
+• Account Creation: Create and maintain your WHERE user account
+• Authentication: Verify your identity when you sign in to WHERE
+• Personalization: Display your name and profile picture in the app interface
+• Communication: Send you important account notifications via email
+• Navigation History: Associate your walking routes and destinations with your account
+We do NOT use your Google data for advertising, marketing to third parties, or any purpose unrelated to WHERE's core walking navigation functionality.
+
+HOW WE STORE GOOGLE DATA
+WHERE stores your Google user data with industry-standard security measures:
+
+• Secure Database: Encrypted storage in our secure PostgreSQL database
+• Limited Data: We store only your name, email, profile picture URL, and Google account ID
+• Data Retention: Google data is retained only while your WHERE account is active
+• Encryption: All data transmission and storage uses TLS/SSL encryption
+• Access Control: Strict internal access controls limit who can view your data
+We do NOT store your Google account password, tokens, or any data from other Google services.
+
+HOW WE SHARE GOOGLE DATA
+WHERE has a strict policy regarding sharing of your Google user data:
+
+• No Third-Party Sharing: We do NOT sell, rent, or share your Google data with third parties for commercial purposes
+• No Advertising Networks: Your Google data is never shared with advertising companies
+• Legal Requirements Only: Shared only if legally required by court order or government request
+• Service Providers: Limited sharing with essential service providers (hosting, security) under strict confidentiality agreements
+• User Consent: Any other sharing requires your explicit written consent
+If WHERE is acquired or merged, we will notify you 30 days before any transfer of your Google data and provide opt-out options.
+
+YOUR CONTROL OVER GOOGLE DATA
+You maintain full control over your Google data in WHERE:
+
+• Revoke Access: Disconnect WHERE from your Google account at any time via Google Account settings
+• Delete Account: Permanently delete your WHERE account and all associated Google data
+• Data Export: Request a copy of all your data stored in WHERE
+• Modify Profile: Update your display name and profile information
+• Contact Us: Email jacky2005fck@gmail.com for any Google data concerns
+When you delete your account, all Google data is permanently removed from our systems within 30 days.
+
+DATA SHARING AND THIRD PARTIES
+WHERE does not sell, trade, or rent your personal information to third parties. We may share data only in these limited circumstances:
+
+• Maps and Location Services: We use Google Maps API to provide navigation functionality.
+• Analytics: Anonymous usage data to improve app performance and features.
+• Legal Requirements: If required by law or to protect our rights and users' safety.
+• Service Providers: Trusted partners who help operate WHERE under strict confidentiality agreements.
+DATA SECURITY
+WHERE employs industry-standard security measures to protect your information. All data transmission is encrypted, and we regularly update our security practices. However, no method of internet transmission is 100% secure, and we cannot guarantee absolute security.
+
+YOUR RIGHTS
+Access and Control
+View, edit, or delete your navigation history through the WHERE app settings.
+
+Account Deletion
+Delete your WHERE account and all associated data at any time through app settings or by contacting us.
+
+Data Portability
+Request a copy of your WHERE data in a machine-readable format.
+
+CHILDREN'S PRIVACY
+WHERE is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately so we can delete such information.
+
+POLICY UPDATES
+We may update this Privacy Policy periodically to reflect changes in our practices or for other operational, legal, or regulatory reasons. Significant changes will be communicated through:
+
+• In-app notifications
+• Email notifications to registered users
+• Updates posted on this webpage with the revision date
+Continued use of WHERE after policy changes indicates acceptance of the updated terms.
+
+
+
+CONTACT US
+If you have questions about this Privacy Policy, how WHERE handles your data, or wish to exercise your rights, please contact us:
+
+
+WHERE - AI WALKING GUIDE
 Email: jacky2005fck@gmail.com
+Website: where.jackydesigns.com
+Developer: JackyDesigns
+
+
+We aim to respond to all privacy-related inquiries within 48 hours.
 
